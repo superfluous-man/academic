@@ -12,15 +12,15 @@ p {
     border-radius: 50%;
     align-self: center;
     text-align: center;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
 }
 
 .avatar_raw {
     align-self: center;
     text-align: center;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
 }
 
 .top-bar {
