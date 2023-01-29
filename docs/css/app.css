@@ -19,8 +19,8 @@ p {
 .avatar_raw {
     align-self: center;
     text-align: center;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .top-bar {
@@ -80,7 +80,7 @@ p {
     border-bottom-width: 0.8px;
     box-sizing: border-box;
     color: rgb(75, 75, 75);
-    font-family: Lato;
+    font-family: system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang TC", "Hiragino Sans GB", "Noto Sans CJK TC", "Source Han Sans TC", "Source Han Sans TW", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
     font-weight: 300;
     letter-spacing: normal;
     padding-bottom: 20px;
@@ -91,6 +91,7 @@ h2 {
     font-size: 50px;
     line-height: 55px;
     margin-bottom: 25px;
+    font-family: system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang TC", "Hiragino Sans GB", "Noto Sans CJK TC", "Source Han Sans TC", "Source Han Sans TW", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
 }
 
 h3 {
@@ -98,6 +99,7 @@ h3 {
     line-height: 28.6px;
     margin-bottom: 30px;
     text-align: center;
+    font-family: system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang TC", "Hiragino Sans GB", "Noto Sans CJK TC", "Source Han Sans TC", "Source Han Sans TW", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
 }
 
 .centered {
@@ -395,6 +397,7 @@ ul.timeline li .tldata .tlcontent-jl {
 
 article-title {
     font-weight: bold;
+    font-family: system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang TC", "Hiragino Sans GB", "Noto Sans CJK TC", "Source Han Sans TC", "Source Han Sans TW", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
 }
 
 .authors {
