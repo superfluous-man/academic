@@ -2,14 +2,18 @@ body {
   font-family: system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang TC", "Hiragino Sans GB", "Noto Sans CJK TC", "Source Han Sans TC", "Source Han Sans TW", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
 }
 
+p {
+  font-family: system-ui, -apple-system, "Noto Sans", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang TC", "Hiragino Sans GB", "Noto Sans CJK TC", "Source Han Sans TC", "Source Han Sans TW", "PingFang SC", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
+}
+
 /* Navigation */
 
 .avatar_round {
     border-radius: 50%;
     align-self: center;
     text-align: center;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 .avatar_raw {
