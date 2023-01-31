@@ -849,6 +849,13 @@ article-title {
 
 /* Opt-in */
 
+.opt-in-name {
+    margin-top: -10px;
+    text-align: center;
+    font-size: 17px;
+    padding: 0px;
+}
+
 .opt-in {
     margin-top: 40px;
     text-align: center;
